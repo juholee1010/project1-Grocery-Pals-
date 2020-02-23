@@ -121,6 +121,7 @@ C:\Users\SONY\Downloads\GROUP3NetworkEquipment\VCNNetworkEquipment\obj\Debug\net
 C:\Users\SONY\Downloads\GROUP3NetworkEquipment\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.dll
 C:\Users\SONY\Downloads\GROUP3NetworkEquipment\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.pdb
 C:\Users\SONY\Downloads\GROUP3NetworkEquipment\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.csprojAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\bin\Debug\netcoreapp2.1\VCNNetworkEquipment.deps.json
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\bin\Debug\netcoreapp2.1\VCNNetworkEquipment.runtimeconfig.json
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\bin\Debug\netcoreapp2.1\VCNNetworkEquipment.runtimeconfig.dev.json
@@ -132,3 +133,5 @@ C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetwork
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.AssemblyInfo.cs
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.dll
 C:\Users\SMALL\Desktop\Fall2019Projects\project1-Grocery-Pals--master\VCNNetworkEquipment\obj\Debug\netcoreapp2.1\VCNNetworkEquipment.pdb
+=======
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348

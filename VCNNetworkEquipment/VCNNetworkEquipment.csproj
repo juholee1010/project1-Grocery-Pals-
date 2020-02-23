@@ -10,7 +10,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Migrations\AppIdentityDb\" />
+<<<<<<< HEAD
     <Folder Include="wwwroot\videos\" />
+=======
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
   </ItemGroup>
 
 </Project>

@@ -2,10 +2,17 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+<<<<<<< HEAD
 using VCNNetworkEquipment.Models.ViewModels;
 using VCNNetworkEquipment.Models;
 
 namespace VCNNetworkEquipment.Controllers
+=======
+using VCNNetworkEquipment.Models.ViewModels;
+using VCNNetworkEquipment.Models;
+
+namespace VCNNetworkEquipment.Controllers
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
 {
 	[Authorize]
 	public class AccountController : Controller

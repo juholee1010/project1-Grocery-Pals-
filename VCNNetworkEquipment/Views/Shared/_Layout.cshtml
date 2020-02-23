@@ -19,6 +19,7 @@
                 <img src="~/images/logo.png"><a>GroceryPals</a>
             </div>
         </div>
+<<<<<<< HEAD
         <div>
 			<ol class="nav">
 				<li><a asp-controller="Product" asp-action="Index">Home Page</a></li>
@@ -30,6 +31,17 @@
 
 				@*<li><a asp-action="Create">Add Item</a></li>*@
 			</ol>
+=======
+        <div class="right">
+            <ol class="nav">
+                <li><a asp-controller="Product" asp-action="Index">Home Page</a></li>
+                <li><a asp-controller="Account" asp-action="Login">Log In</a></li>
+                <li><a asp-controller="Product" asp-action="List">Products</a></li>
+                <li><a asp-controller="Admin" asp-action="Index">Admin</a></li>
+
+                @*<li><a asp-action="Create">Add Item</a></li>*@
+            </ol>
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
             @if (User.Identity.IsAuthenticated)
             {
             <div id="userinfo">
@@ -47,6 +59,7 @@
         AOS.init({ once: true });
     </script>
 
+<<<<<<< HEAD
 	<footer>
 		<a>&copy; Copyright 2020:</a>
 		<p class="text-white">Dilan Mian - 300942249</p>
@@ -56,5 +69,11 @@
 		<p class="text-white">Alvin Quijano - 300795606</p>
 		<p class="text-white">Juho Lee - 301004891</p>
 	</footer>
+=======
+    <footer>
+        <a>&copy; Copyright 2020:</a>
+        <p class="text-white">Viet Cuong Nguyen - 300973502</p>
+    </footer>
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
 </body>
 </html>

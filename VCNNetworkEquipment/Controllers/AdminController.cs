@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +8,17 @@ using Microsoft.AspNetCore.Mvc;
 using VCNNetworkEquipment.Models;
 
 namespace VCNNetworkEquipment.Controllers
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using VCNNetworkEquipment.Models;
+
+namespace VCNNetworkEquipment.Controllers
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
 {
 	[Authorize]
 	public class AdminController : Controller
@@ -50,5 +62,9 @@ namespace VCNNetworkEquipment.Controllers
 			}
 			return RedirectToAction("Index");
 		}
+<<<<<<< HEAD
 	}
+=======
+	}
+>>>>>>> 1b0fd60acba595427cb53534d15d821b76cf7348
 }
